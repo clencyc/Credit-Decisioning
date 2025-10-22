@@ -1,5 +1,6 @@
 
 # HEVA Credit Decisioning Tool – Frontend
+Credit Decisioning for creatives
 
 The HEVA Credit Decisioning Tool is a dynamic platform built to streamline and enhance the evaluation process for creditworthiness, specifically tailored to the creative economy. This admin-facing interface is part of a broader system that digitizes and automates the applicant journey while providing rich analytics and operational control for internal decision-makers.
 
